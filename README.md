@@ -1,5 +1,5 @@
 
-This repository contains dataset and evaluation results for the findings of EMNLP 2023 paper ["Battle of the Large Language Models: Dolly vs LLaMA vs Vicuna vs Guanaco vs Bard vs ChatGPT - A Text-to-SQL Parsing Comparison"](https://arxiv.org/abs/1911.04942).
+This repository contains datasets and evaluation results for the findings of EMNLP 2023 paper ["Battle of the Large Language Models: Dolly vs LLaMA vs Vicuna vs Guanaco vs Bard vs ChatGPT - A Text-to-SQL Parsing Comparison"](https://arxiv.org/abs/1911.04942).
 
 If you use the evaluation results in your work, please cite it as follows:
 ``` bibtex
